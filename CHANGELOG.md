@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.8
+
+- @jochensengier bumped the vite (➡️ ^8.0.0) version
+
 ## 0.4.7
 
 - bumped the purgecss (➡️ ^8.0.0) version
